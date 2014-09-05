@@ -1,0 +1,2 @@
+Aqui se deben agregar:
+todos los archivos PHP de integración del theme de WP con la maqueta HTML realizada
